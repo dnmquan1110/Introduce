@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quainhan1110, from Vietnam
+- 👋 Hi, I’m Minh Quan, from Vietnam
 - 👀 I want to be an AI engineer
 - 🌱 I’m currently learning Machine Learning, Deep Learning
 
