@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Minh Quan, from Vietnam
-- 👀 I want to be an AI engineer
+- 👀 I want to be an AI engineer or Data Analyst
 - 🌱 I’m currently learning Machine Learning, Deep Learning
 
 <!---
